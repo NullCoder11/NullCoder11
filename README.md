@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sompadma Mukherjee</h1>
 <h3 align="center">A recent fresh graduate holding a degree of B.Tech in Information Technology. I have a keen interest in Web Development and Data Analytics. I have skills in Java, Python, Web Devlopment, SQL. Last but not the least , to know more about my technical skills do check out my repos! Thank you! How to reach me - mukherjeesompadma@gmail.com</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nullcoder11&label=Profile%20views&color=0e75b6&style=flat" alt="nullcoder11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nullcoder11" alt="nullcoder11" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/tethys1120" target="blank"><img src="https://img.shields.io/twitter/follow/tethys1120?logo=twitter&style=for-the-badge" alt="tethys1120" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript to enhance my Web Devlopment Skills**
