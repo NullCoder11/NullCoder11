@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-A recent fresh graduate holding a degree of B.Tech in Information Technology. I have a kneen interest in Web Development and Data Analytics. I have skills in Java, Python, Web Devlopment, SQL. Last but not the least , to know more about my technical skills do check out my repos! Thank you!<br>How to reach me - mukherjeesompadma@gmail.com
+A recent fresh graduate holding a degree of B.Tech in Information Technology. I have a keen interest in Web Development and Data Analytics. I have skills in Java, Python, Web Devlopment, SQL. Last but not the least , to know more about my technical skills do check out my repos! Thank you!<br>How to reach me - mukherjeesompadma@gmail.com
 
 
 ## 🌐 Socials:
