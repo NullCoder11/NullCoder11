@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-An undergrad pursuing Information Technology ! Also looking forward to start my journey in open-source!<br>Keen to start my career in IT industry and learn as much as I can from this never ending domain of knowledge! <br>How to reach me - mukherjeesompadma@gmail.com
+A recent fresh graduate holding a degree of B.Tech in Information Technology. I have a kneen interest in Web Development and Data Analytics. I have skills in Java, Python, Web Devlopment, SQL. Last but not the least , to know more about my technical skills do check out my repos! Thank you!<br>How to reach me - mukherjeesompadma@gmail.com
 
 
 ## 🌐 Socials:
